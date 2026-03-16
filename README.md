@@ -24,8 +24,8 @@ Passionate about technology, problem solving and building innovative solutions.
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 
 ---
 
