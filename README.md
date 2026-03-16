@@ -1,8 +1,10 @@
-  ## Hi 👋, I'm Vale Hernandez
+<h1 align="center">Hi 👋, I'm Vale Hernandez</h1>
+<h3 align="center">Systems Engineering Student | Future Software Developer</h3>
 
-Systems Engineering Student | Future Software Developer
-
+<p align="center">
 Passionate about technology, problem solving and building innovative solutions.
+</p>
+
 
 ---
 
