@@ -40,10 +40,7 @@ Passionate about technology, problem solving and building innovative solutions.
 
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Val10215&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val10215&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vall0215)
 
 <img src="https://komarev.com/ghpvc/?username=Vall0215&label=Profile%20views&color=00D4FF&style=plastic">
 
