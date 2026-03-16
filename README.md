@@ -29,8 +29,8 @@ Passionate about technology, problem solving and building innovative solutions.
 
 ---
 
-![Logo](https://img.freepik.com/premium-photo/vector-illustration-showing-female-software-engineer_1110958-62413.jpg)
+![Logo](https://img-blog.csdnimg.cn/img_convert/4d39ce7b302f35a305acaf9aa9879f69.gif)
 
 ---
 
-     ##⭐ Always learning, always building.
+  ##⭐ Always learning, always building.
