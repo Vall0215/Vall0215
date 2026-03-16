@@ -40,4 +40,4 @@ Passionate about technology, problem solving and building innovative solutions.
 
 ---
 
-  ##⭐ Always learning, always building.
+⭐ Always learning, always building.
