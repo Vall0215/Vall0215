@@ -24,8 +24,9 @@ Passionate about technology, problem solving and building innovative solutions.
 ---
 
 ## 💡Contact Me:
-[Instagram:](https://www.instagram.com/vhm02?igsh=MW9pNXc5NTB1dTBpbw%3D%3D&utm_source=qr)
-[Gmail:](vm2191708@gmail.com  )
+[Instagram](https://www.instagram.com/vhm02?igsh=MW9pNXc5NTB1dTBpbw%3D%3D&utm_source=qr)
+
+[Gmail](vm2191708@gmail.com  )
 
 ---
 
