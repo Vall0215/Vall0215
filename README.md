@@ -40,4 +40,6 @@ Passionate about technology, problem solving and building innovative solutions.
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vall0215)
+
 ⭐ Always learning, always building.
