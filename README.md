@@ -44,6 +44,8 @@ Passionate about technology, problem solving and building innovative solutions.
 
 <img src="https://komarev.com/ghpvc/?username=Vall0215&label=Profile%20views&color=00D4FF&style=plastic">
 
+<img src="https://raw.githubusercontent.com/Vall0215/Vall0215/output/github-contribution-grid-snake.svg">
+
 --
 
 
