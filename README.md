@@ -1,6 +1,7 @@
   ## Hi 👋, I'm Vale Hernandez
 
 Systems Engineering Student | Future Software Developer
+
 Passionate about technology, problem solving and building innovative solutions.
 
 ---
