@@ -1,4 +1,4 @@
-  #Hi 👋, I'm Vale Hernandez
+  ## Hi 👋, I'm Vale Hernandez
 
 Systems Engineering Student | Future Software Developer
 Passionate about technology, problem solving and building innovative solutions.
@@ -29,4 +29,4 @@ Passionate about technology, problem solving and building innovative solutions.
 
 ---
 
-###⭐ Always learning, always building.
+     ##⭐ Always learning, always building.
