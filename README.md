@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi 👋, I'm Vale Hernandez
+Systems Engineering Student | Future Software Developer
+Passionate about technology, problem solving and building innovative solutions.
 
-<!--
-**Vall0215/Vall0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👩‍💻 About Me
+🎓 Systems Engineering Student at Universidad de la Costa
+📍 Barranquilla, Colombia
+💡 Interested in Artificial Intelligence, Software Development and Technology
+🌱 Currently learning Python, JavaScript and Algorithms
+🚀 Always building new projects and improving my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+
+# 🚀 Technologies i´m Learnming
