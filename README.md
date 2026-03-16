@@ -26,6 +26,7 @@ Passionate about technology, problem solving and building innovative solutions.
 ## 📫 Contact Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vhm02?igsh=MW9pNcX5NTB1dTBp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vm2191708@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/var0215)
 
 ---
 
