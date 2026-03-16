@@ -42,4 +42,11 @@ Passionate about technology, problem solving and building innovative solutions.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vall0215)
 
+---
+
+<img src="https://komarev.com/ghpvc/?username=Vall0215&label=Profile%20views&color=00D4FF&style=plastic">
+
+--
+
+
 ⭐ Always learning, always building.
