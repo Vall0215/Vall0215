@@ -36,6 +36,8 @@ Passionate about technology, problem solving and building innovative solutions.
 
 ![Logo](https://img-blog.csdnimg.cn/img_convert/4d39ce7b302f35a305acaf9aa9879f69.gif)
 <img src="https://img-blog.csdnimg.cn/img_convert/4d39ce7b302f35a305acaf9aa9879f69.gif" width="50">
+<img src="https://img-blog.csdnimg.cn/img_convert/4d39ce7b302f35a305acaf9aa9879f69.gif" width="300" height="200">
+
 
 ---
 
