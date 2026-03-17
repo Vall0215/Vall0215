@@ -4,8 +4,6 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Systems Engineering Student | Future Software Developer, Passionate about technology, problem solving and building innovative solutions.
-
 🎓 Systems Engineering Student at **Universidad de la Costa**  
 📍 Barranquilla, Colombia  
 💡 Interested in **Artificial Intelligence, Software Development and Technology**  
