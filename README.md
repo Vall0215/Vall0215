@@ -26,7 +26,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Vall0215)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ---
@@ -34,7 +34,7 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vall0215&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vall0215&OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vall0215&show_icons=true&locale=en&theme=chartreuse-dark" alt="Valery stats" width="410" /></p>
 <br><br><br><br><br>
 
 ---
@@ -46,7 +46,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Vall0215&label=Profile%20views&color=00D4FF&style=plastic">
 
-<img src="https://raw.githubusercontent.com/Vall0215/Vall0215/output/github-contribution-grid-snake.svg">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vall0215/Vall0215/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ⭐ Always learning, always building.
