@@ -26,7 +26,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Vall0215)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ---
@@ -46,8 +46,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Vall0215&label=Profile%20views&color=00D4FF&style=plastic">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vall0215/Vall0215/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/Vall0215/Vall0215/output/github-contribution-grid-snake.svg">
 
 ⭐ Always learning, always building.
