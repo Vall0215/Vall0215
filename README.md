@@ -1,58 +1,83 @@
-<h1 align="center">Hi , I'm Valery Hernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+Hi, I'm Valery Hernandez!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br/>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Vall0215&label=Profile%20views&color=00D4FF&style=flat-square" />
 
 <p align="center">
-  <img width="200" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img align="left" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="200" />
+<hr>
 
-🎓 Systems Engineering Student at **Universidad de la Costa**  
-📍 Barranquilla, Colombia  
-💡 Interested in **Artificial Intelligence, Software Development and Technology**  
-🌱 Currently learning **Python, JavaScript and Algorithms**  
-🚀 Always building new projects and improving my skills
+```
+👩‍💻 I-am-vall0215@github
+-------------------------
+- 🎓 Systems Engineering Student at **Universidad de la Costa**
+- 📍 Barranquilla, Colombia
+- 💡 Interested in **Artificial Intelligence and Software Development**
+- 🚀 Building projects and improving my skills
+- 🤝 Looking for opportunities to grow as a developer
+```
+<hr>
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:vm2191708@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/vhm02">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/valery-hern%C3%A1ndez-42a3a1320">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/vallhernandez6">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vall0215">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<h1 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Technologies I'm Learning</h1>
+## 🛠 Technologies I'm Learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
-<h1 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development</h1>
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-
-<h1 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Tools</h1>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Vall0215)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-
----
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vall0215&show_icons=true&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vall0215&layout=compact&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vall0215&theme=tokyonight&hide_border=true"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
 ---
 
-## 📫 Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vhm02?igsh=MW9pNcX5NTB1dTBp)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vm2191708@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/var0215)
+## 📊 GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=Vall0215&label=Profile%20views&color=00D4FF&style=plastic">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vall0215&show_icons=true&theme=tokyonight" />
+</p>
 
-⭐ Always learning, always building.
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Vall0215&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💼 Projects
+
+- *
+
+  ---
+
+```
+                                                ⭐ Always learning, always building.
+```
