@@ -76,6 +76,7 @@ Hi, I'm Valery Hernandez!
 ### ⚡ Lenz's Law Simulator
 An interactive simulation of electromagnetic behavior based on Lenz's Law.
 An application focused on visualizing physical concepts through programming. 
+
 👉 [View Project](https://github.com/Vall0215/simulador-ley-lenz)
 
 ---
@@ -83,6 +84,7 @@ An application focused on visualizing physical concepts through programming.
 ### 🏦 ATM
 A web application that simulates banking transactions such as deposits, withdrawals, and transaction history management.
 Developed with JavaScript, focusing on logic and DOM manipulation.
+
 👉 [View Project](https://github.com/Vall0215/cajero_automatico)
 
   ---
