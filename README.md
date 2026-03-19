@@ -73,8 +73,17 @@ Hi, I'm Valery Hernandez!
 ---
 
 ## 💼 Projects
+### ⚡ Simulador Ley de Lenz
+Simulación interactiva del comportamiento electromagnético basada en la Ley de Lenz.  
+Aplicación enfocada en visualización de conceptos físicos mediante programación.  
+👉 [View Project](https://github.com/Vall0215/simulador-ley-lenz)
 
-- *
+---
+
+### 🏦 Cajero Automático
+Aplicación web que simula operaciones bancarias como depósitos, retiros y gestión de historial.  
+Desarrollado con JavaScript enfocado en lógica y manipulación del DOM.  
+👉 [View Project](https://github.com/Vall0215/cajero_automatico)
 
   ---
 
