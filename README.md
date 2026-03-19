@@ -19,7 +19,7 @@ Hi, I'm Valery Hernandez!
 - 🎓 Systems Engineering Student at **Universidad de la Costa**
 - 📍 Barranquilla, Colombia
 - 💡 Interested in **Artificial Intelligence and Software Development**
-- 🚀 Building projects and improving my skills
+- 🚀 Focused on building real-world projects and improving my problem-solving skills
 - 🤝 Looking for opportunities to grow as a developer
 ```
 <hr>
@@ -46,7 +46,7 @@ Hi, I'm Valery Hernandez!
 
 ---
 
-## 🛠 Technologies I'm Learning
+## 🛠 Technologies & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
