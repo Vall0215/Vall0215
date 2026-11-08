@@ -1,7 +1,6 @@
+
 <h1 align="center">
-Hi, I'm Valery Hernandez!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=++++Que+se+dice+puess+???+⭐;++++I´m++Valery+Hernandez!;" /></h1>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Vall0215&label=Profile%20views&color=00D4FF&style=flat-square" />
@@ -14,7 +13,7 @@ Hi, I'm Valery Hernandez!
 <hr>
 
 ```
-👩‍💻 I-am-vall0215@github
+ I-am-vall0215@github
 -------------------------
 - 🎓 Systems Engineering Student at **Universidad de la Costa**
 - 📍 Barranquilla, Colombia
@@ -24,7 +23,7 @@ Hi, I'm Valery Hernandez!
 ```
 <hr>
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="mailto:vm2191708@gmail.com">
@@ -46,7 +45,7 @@ Hi, I'm Valery Hernandez!
 
 ---
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
@@ -60,19 +59,22 @@ Hi, I'm Valery Hernandez!
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vall0215&show_icons=true&theme=tokyonight" />
-</p>
+## GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Vall0215&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+## Projects
 
-## 💼 Projects
+### 🛰️ NEXUS
+plataforma de inteligencia energética que permite analizar el potencial energético, simular soluciones y recibir recomendaciones inteligentes para optimizar el consumo de energía.
+
+👉 [View Project](https://github.com/Vall0215/NEXUS.git)
+
+---
+
 ### ⚡ Lenz's Law Simulator
 An interactive simulation of electromagnetic behavior based on Lenz's Law.
 An application focused on visualizing physical concepts through programming. 
@@ -80,14 +82,6 @@ An application focused on visualizing physical concepts through programming.
 👉 [View Project](https://github.com/Vall0215/simulador-ley-lenz)
 
 ---
-
-### 🏦 ATM
-A web application that simulates banking transactions such as deposits, withdrawals, and transaction history management.
-Developed with JavaScript, focusing on logic and DOM manipulation.
-
-👉 [View Project](https://github.com/Vall0215/cajero_automatico)
-
-  ---
 
 ```
                                                 ⭐ Always learning, always building.
